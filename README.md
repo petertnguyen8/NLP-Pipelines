@@ -78,7 +78,3 @@ scikit-learn - Machine Learning library
 pandas - Data manipulation
 
 Jupyter Notebook - Interactive development environment
-
-## License
-
-[License](LICENSE.txt)
